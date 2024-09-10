@@ -17,5 +17,8 @@ Com o objetivo de aplicar de forma prática os conhecimentos adquiridos na Imers
 * **JavaScript:** Lógica da aplicação, incluindo a função de pesquisa e a manipulação do DOM.
 * **Google Gemini:** Ferramenta de inteligência artificial utilizada para auxiliar na criação do código, resolução de dúvidas e geração de ideias.
 
+## Link Vercel
+https://studioghibli-imersaodev.vercel.app/
+
 ---
 Agradeço à Alura pela oportunidade de participar da Imersão Dev com Google Gemini.
