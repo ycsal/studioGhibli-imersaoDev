@@ -2,7 +2,7 @@
 
 **Descrição:**
 Este projeto web, criado durante a **Imersão Dev com Google Gemini** da Alura, é uma demonstração prática dos conhecimentos adquiridos em HTML, CSS e JavaScript. 
-Com o objetivo de aplicar de forma prática os conhecimentos adquiridos na Imersão Dev da Alura, escolhi o universo do Studio Ghibli como tema para este projeto. Tendo foco em simplicidade e aprendizado, o catálogo contém alguns longas do Studio Ghibli e permite que o usuário pesquise pelos filmes e obtenha informações básicas como ano de lançamento, gênero e sinopse.
+Com o objetivo de aplicar de forma prática os conhecimentos adquiridos na imersão, escolhi o universo do Studio Ghibli como tema para este projeto. Tendo foco em simplicidade e aprendizado, o catálogo contém alguns longas do Studio Ghibli e permite que o usuário pesquise pelos filmes e obtenha informações básicas como ano de lançamento, gênero e sinopse.
 
 **Funcionalidades:**
 
