@@ -66,7 +66,7 @@ const dados = [
       titulo: 'Vidas ao Vento',
       ano: 2013,
       classificacao: 'Classificação +12 anos',
-      genero: 'Drama, Histórico',
+      genero: 'Drama, Histórico, Guerra',
       sinopse: 'A história do engenheiro Jiro Horikoshi, criador do caça Zero, e seu amor por Naoko Satomi em meio à Segunda Guerra Mundial.',
       plataformas: 'Netflix, Apple TV',
       tags: 'história historia aviacao guerra sonho aviação amor'
@@ -78,15 +78,24 @@ const dados = [
       genero: 'Animação, Fantasia, Aventura',
       sinopse: 'Em uma pequena vila à beira-mar, um menino solitário encontra uma garça ferida e a cuida até que ela se recupere. Juntos, embarcam em uma jornada mágica e emocionante, descobrindo um mundo secreto e cheio de maravilhas.',
       plataformas: 'Até o momento, indisponível em plataformas de streaming',
-      tags: 'amizade amizade animal natureza aventura fantasia mar magia'
+      tags: 'amizade animal natureza aventura fantasia mar magia'
     },
     {
       titulo: 'Túmulo dos Vagalumes',
       ano: 1988,
       classificacao: 'Classificação +12 anos',
-      genero: 'Animação, Drama, Guerra',
+      genero: 'Drama, Histórico, Guerra',
       sinopse: 'Em meio aos horrores da Segunda Guerra Mundial, Seita e Setsuko, irmãos órfãos, lutam para sobreviver em uma cidade japonesa devastada pelos bombardeios. A animação retrata de forma comovente a luta pela sobrevivência e a inocência perdida na guerra.',
       plataformas: 'Netflix',
-      tags: 'guerra, tumulo, crianças, família, perda, sofrimento, clássico'
+      tags: 'guerra tumulo historia história crianças família perda sofrimento clássico'
+    },
+    {
+      titulo: 'Ponyo - Uma Amizade que Veio do Mar',
+      ano: 2008,
+      classificacao: 'Livre',
+      genero: 'Fantasia, Aventura',
+      sinopse: 'Ponyo, uma jovem sereia, sonha em se tornar humana. Após ser salva por um menino chamado Sosuke, ela embarca em uma aventura mágica que ameaça o equilíbrio entre o mar e a terra.',
+      plataformas: 'Netflix, Disney+',
+      tags: 'sereia mar magia amizade aventura fantasia amigos'
     }
   ];
