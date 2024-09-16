@@ -19,6 +19,8 @@ function pesquisar(){
     let ano = 0;
     let plataformas = "";
     let tags = "";
+    let sinopse = "";
+    let classificacao = "";
 
     // Itera sobre os dados e constrói o HTML para cada item
     for (let dado of dados) {
@@ -26,9 +28,11 @@ function pesquisar(){
         genero = dado.genero.toLowerCase();
         plataformas = dado.plataformas.toLowerCase();
         tags = dado.tags.toLowerCase();
+        sinopse = dado.sinopse.toLowerCase();
+        classificacao = dado.classificacao.toLowerCase();
 
         // se titulo include campoPesquisa, então faça...
-        if(titulo.includes(campoPesquisa) || genero.includes(campoPesquisa) || dado.ano == campoPesquisa || plataformas.includes(campoPesquisa) || tags.includes(campoPesquisa)){
+        if(titulo.includes(campoPesquisa) || genero.includes(campoPesquisa) || dado.ano == campoPesquisa || plataformas.includes(campoPesquisa) || tags.includes(campoPesquisa) || sinopse.includes(campoPesquisa) || classificacao.includes(campoPesquisa)){
             // Cria um novo elemento HTML para cada resultado
             resultados += `
             <div class="item-resultado">
