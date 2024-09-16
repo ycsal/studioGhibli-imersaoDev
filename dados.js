@@ -70,5 +70,23 @@ const dados = [
       sinopse: 'A história do engenheiro Jiro Horikoshi, criador do caça Zero, e seu amor por Naoko Satomi em meio à Segunda Guerra Mundial.',
       plataformas: 'Netflix, Apple TV',
       tags: 'história historia aviacao guerra sonho aviação amor'
+    },
+    {
+      titulo: 'O Menino e a Garça',
+      ano: 2023,
+      classificacao: 'Classificação Livre',
+      genero: 'Animação, Fantasia, Aventura',
+      sinopse: 'Em uma pequena vila à beira-mar, um menino solitário encontra uma garça ferida e a cuida até que ela se recupere. Juntos, embarcam em uma jornada mágica e emocionante, descobrindo um mundo secreto e cheio de maravilhas.',
+      plataformas: 'Até o momento, indisponível em plataformas de streaming',
+      tags: 'amizade amizade animal natureza aventura fantasia mar magia'
+    },
+    {
+      titulo: 'Túmulo dos Vagalumes',
+      ano: 1988,
+      classificacao: 'Classificação +12 anos',
+      genero: 'Animação, Drama, Guerra',
+      sinopse: 'Em meio aos horrores da Segunda Guerra Mundial, Seita e Setsuko, irmãos órfãos, lutam para sobreviver em uma cidade japonesa devastada pelos bombardeios. A animação retrata de forma comovente a luta pela sobrevivência e a inocência perdida na guerra.',
+      plataformas: 'Netflix',
+      tags: 'guerra, tumulo, crianças, família, perda, sofrimento, clássico'
     }
   ];
