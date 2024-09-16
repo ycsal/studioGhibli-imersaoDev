@@ -36,9 +36,7 @@ function pesquisar(){
             // Cria um novo elemento HTML para cada resultado
             resultados += `
             <div class="item-resultado">
-                <h2>
-                    <a href="#" target="_blank">${dado.titulo}</a>
-                </h2>
+                <h2>${dado.titulo}</h2>
                 <p class="descricao-meta">${dado.ano} - ${dado.classificacao}</p>
                 <p class="descricao-meta">${dado.genero}</p>
                 <p class="descricao-meta">${dado.sinopse}</p>
